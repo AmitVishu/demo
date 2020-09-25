@@ -1,3 +1,3 @@
 public class Hello {
-Public Stsatic Void main (String[] args) {
+Public Static Void main (String[] args) {
 System.Out.PrintLn("Hello World");
